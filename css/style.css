@@ -1,0 +1,26 @@
+body {
+  background-color: #80c57d;
+}
+
+hr {
+  border-style: dotted none none;
+  border-color: rgb(128, 128, 128);
+  width: 5%;
+  border-width: 8px;
+}
+h1, h2, h3, #hehe {
+  color: #2C3639;
+}
+
+#blur {
+  font-size: 10px;
+  color: transparent;
+  text-shadow: 0 0 10px #000;
+}
+p, table, a{
+
+    color: white;
+}
+#hehe {
+    font-size: large;
+}
